@@ -1,8 +1,8 @@
 # Fitting Poisson  distribution
-# Name : Monish Kumar.B
-# Reg No : 212224040200
-# Department : CSE
-# Date : 02.05.2025
+# Name : GOKUL S
+# Reg No : 212224240045
+# Department : AI & ML
+# Date : 20.05.2025
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
