@@ -1,8 +1,7 @@
 # Fitting Poisson  distribution
-# Name : GOKUL S
-# Reg No : 212224240045
-# Department : AI & ML
+
 # Date : 20.05.2025
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
