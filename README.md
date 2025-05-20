@@ -1,6 +1,7 @@
 # Fitting Poisson  distribution
-
-# Date : 20.05.2025
+# Name : GOKUL S
+# Register No : 2122242400045
+# Date : 14.03.2025
 
 # Aim : 
 
